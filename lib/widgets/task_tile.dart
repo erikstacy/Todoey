@@ -45,7 +45,7 @@ class TaskCheckbox extends StatelessWidget {
   TaskCheckbox({
     this.checkboxState,
     this.toggleCheckboxState,
-  );
+  });
 
   final bool checkboxState;
   final Function toggleCheckboxState;
